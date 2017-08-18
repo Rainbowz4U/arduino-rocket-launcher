@@ -1,14 +1,4 @@
-/*************************************************** 
-  Written by Chris Hall for ChallTech.  
-  BSD license, all text above must be included in any redistribution
-  
-  For Instructions:
-  http://www.instructables.com/id/Arduino-Model-Rocket-Launcher-for-3D-Printed-Rocke/
-  
-  For Code:
-  https://github.com/chall2009/Arduino-Rocket-Launcher
-  
- ****************************************************/
+//By Rainbowz4U
 #include <LiquidCrystal.h>
 #include <Wire.h>   
 
