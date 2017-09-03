@@ -1,4 +1,4 @@
-//By Rainbowz4U
+//By Rainbowz4U, inspired by Chris Hall's Project
 #include <LiquidCrystal.h>
 #include <Wire.h>   
 
